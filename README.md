@@ -35,7 +35,7 @@ $('#element').slideShow({ option: value });
 
 
 ### Demo
-[http://lewiswalsh.com/demos/uber-basic-jquery-slider/](http://lewiswalsh.com/demos/uber-basic-jquery-slider/')
+[http://lewiswalsh.com/demos/uber-basic-jquery-slider/](http://lewiswalsh.com/demos/uber-basic-jquery-slider/)
 
 ### License
 This software is provided as-is. You are free to use and modify as you wish. Use of this code is at your own risk. It'd be cool if you let me know if you use it.
