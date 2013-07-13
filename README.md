@@ -1,4 +1,4 @@
-# uber-basic-jquery-slideshow
+# &#220;ber Basic jQuery Slideshow
 
 A jQuery plugin to enable simple slideshow cross-fading between absolutely-positioned elements. Could be anything, does not have to be images.
 
