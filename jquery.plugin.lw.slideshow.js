@@ -8,7 +8,7 @@
     $.fn.extend({ 
          
         //This is where you write your plugin's name
-        slideShow: function(options) {
+        slideShow: function(options){
 		
 			// Defaults values for settings
 			var defaults = {
