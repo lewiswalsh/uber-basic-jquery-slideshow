@@ -44,7 +44,7 @@ or
 ```js
 $('.slideshow').slideShow();
 ```
-or to set options
+or to set options:
 ```js
 $('.slideshow').slideShow({ 
 	panelClass    : '.myclass', 
@@ -64,7 +64,7 @@ Ensure the outer element has a width, remove the height value and add an `:after
 .slideshow:before{
 	content: "";
 	display: block;
-	padding-top: 42%; /* 100% divided 2.39 */
+	padding-top: 42%; /* 100% divided by 2.39 */
 }
 ```
 
